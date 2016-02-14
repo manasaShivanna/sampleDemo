@@ -1,0 +1,1 @@
+E:\Vesta\C# Practice\SampleGitDemo\SampleGitDemo\bin\Debug\SampleGitDemo.exe.config
