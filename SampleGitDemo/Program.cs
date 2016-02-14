@@ -11,6 +11,7 @@ namespace SampleGitDemo
         static void Main(string[] args)
         {
             Console.WriteLine("This is a Sample Demo for Conflict");
+            Console.Read();
         }
     }
 }
