@@ -10,7 +10,7 @@ namespace SampleGitDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This is a Sample Demo for ConflictTesting");
+            Console.WriteLine("This is a Sample Demo for ConflictTesting....Yay!!!");
             Console.WriteLine("Hey Conflict Generated");
             Console.ReadLine();
         }
